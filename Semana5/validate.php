@@ -1,4 +1,3 @@
-
 <?php
 
 // validate.php: este archivo se incluirá en todas las páginas que requieran autenticación
